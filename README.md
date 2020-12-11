@@ -49,11 +49,8 @@ The HTML code was updated with modern HTML semantics to optimize search engine o
 - [LinkedIn](https://www.linkedin.com/in/ryan-kirkland-619942200/)
 - [Contributors](https://bootcamp.berkeley.edu/coding/)
 
+## License:
+This project is licensed under the MIT License.
 
-What you did - what was the work that you did and why
-
-
-Code Snippets With context as to why you are highlighting it (Do not highlight every line of code)
-
-
-Who You Are (links to your LinkedIn & Portfolio - if one exists)
+## Acknowledgements:
+Thank you to UCB Extension for the help with this project.
