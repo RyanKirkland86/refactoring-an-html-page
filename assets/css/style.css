@@ -145,6 +145,8 @@ and reorganized to follow the same semantic path as in the HTML */
     text-align: center;
 }
 
-.footer h2 {
+/* Updated footer tag to account for changes to HTML semantics */
+
+.footer article {
     font-size: 20px;
 }
